@@ -1,7 +1,21 @@
-# pinme-Ex
-GitHub repo which contains an example of a pine generated SVGs!!
 
----
+<!--<h6 style="color: blue;"> Click on anyone to visit, use and contribute </h6>   -->
+
+```
+                      ____________                               _______________________________________
+                     < echo "okay" >                           / Click on anyone to visit, use and       \
+                      ------------                            \\ contribute !!                           //
+                     /                                            --------------------------------------
+                   /                                                 \
+             .--.                                                      \
+            |o_o |                                                        ^__^
+            |:_/ |                                                        (oo)\_______
+           //   \ \                                                       (__)\       )\/\
+          (|     | )                                                          ||----w |
+         /'\_   _/`\                                                          ||     ||
+         \___)=(___/                                                     ~~~~~~~~~~~~~~~~~~~
+```
+
 
 |[![flint-md/flint](https://pinme-web.vercel.app/api/pin?user=flint-md&repo=flint&theme=transparent&show_size=true&show_license=true&show_issues=true&show_watchers=true&show_updated=true&show_badges=true&show_langs=true&langs_percentage=true)](https://github.com/flint-md/flint)|[![Chintanpatel24/otter](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=otter&theme=transparent&show_size=true&show_license=true&show_issues=true&show_watchers=true&show_updated=true&show_badges=true&show_langs=true&langs_percentage=true)](https://github.com/Chintanpatel24/otter)|[![Chintanpatel24/torot](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=torot&theme=transparent&show_size=true&show_license=true&show_issues=true&show_watchers=true&show_updated=true&show_badges=true&show_langs=true&langs_percentage=true)](https://github.com/Chintanpatel24/torot)|
 |:---|:---|:---|
