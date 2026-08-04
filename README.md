@@ -41,7 +41,7 @@
 ---
 
 ## 4. [tusk-org](https://github.com/tusk-org)
-[![matt-i0/tusk](https://pinme-web.vercel.app/api/pin?user=matt-i0&repo=tusk&detailed=true&theme=transparent&show_topics=false&show_issues=true&show_watchers=true&show_updated=true&show_badges=true&langs_percentage=true)](https://github.com/matt-i0/tusk)
+[![tusk-org/tusk](https://pinme-web.vercel.app/api/pin?user=tusk-org&repo=tusk&theme=transparent&show_langs=true&show_size=true&show_license=true&show_issues=true&show_watchers=true&show_updated=true&show_badges=true&langs_percentage=true)](https://github.com/tusk-org/tusk)
 
 ---
 
