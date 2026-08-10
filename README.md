@@ -15,7 +15,7 @@
          \___)=(___/                                       ~~~~~~~~~~~~~~~~~~~
 ```
 
-># Projects belong to separate organizations !!
+># Toyprojects belong to separate organizations !!
 
 ## 1.[Matt-i0](https://github.com/matt-i0)
   
@@ -55,7 +55,7 @@
 
 ---
 
-># projects according to languages !!
+># Toyprojects according to languages !!
 
 ## Python
 |[![Chintanpatel24/fiver](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=fiver&theme=transparent&show_size=true&show_license=true&show_issues=true&show_watchers=true&show_updated=true&show_badges=true&show_langs=true&langs_percentage=true)](https://github.com/Chintanpatel24/fiver)|[![Chintanpatel24/prexec](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=prexec&theme=transparent&show_size=true&show_license=true&show_issues=true&show_watchers=true&show_updated=true&show_badges=true&show_langs=true&langs_percentage=true)](https://github.com/Chintanpatel24/prexec)|[![Chintanpatel24/saternet](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=saternet&theme=transparent&show_size=true&show_license=true&show_issues=true&show_watchers=true&show_updated=true&show_badges=true&show_langs=true&langs_percentage=true)](https://github.com/Chintanpatel24/saternet)|
