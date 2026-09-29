@@ -160,55 +160,45 @@
     <td>
       
   [![Chintanpatel24/neuryx](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=neuryx&theme=transparent&show_size=true&show_license=true&show_issues=true&show_watchers=true&show_updated=true&show_badges=true&show_langs=true&langs_percentage=true)](https://github.com/Chintanpatel24/neuryx)</td>
-    <td>Row 1, Cell 3</td>
+    <td>
+  [![Chintanpatel24/neuryx_v2](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=neuryx_v2&theme=transparent&show_size=true&show_license=true&show_issues=true&show_watchers=true&show_updated=true&show_badges=true&show_langs=true&langs_percentage=true)](https://github.com/Chintanpatel24/neuryx_v2)</td>
   </tr>
   <tr>
-    <td>Row 2, Cell 1</td>
-    <td>Row 2, Cell 2</td>
-    <td>Row 2, Cell 3</td>
+    <td>
+
+  [![Chintanpatel24/ScrollerFrames](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=ScrollerFrames&theme=transparent&show_size=true&show_license=true&show_issues=true&show_watchers=true&show_updated=true&show_badges=true&show_langs=true&langs_percentage=true)](https://github.com/Chintanpatel24/ScrollerFrames)</td>
+    <td>
+      
+[![Chintanpatel24/GrapheneOS-Guide](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=GrapheneOS-Guide&theme=transparent&show_size=true&show_license=true&show_issues=true&show_watchers=true&show_updated=true&show_badges=true&show_langs=true&langs_percentage=true)](https://github.com/Chintanpatel24/GrapheneOS-Guide)</td>
+    <td>
+      
+  |[![Chintanpatel24/how-it-works](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=how-it-works&theme=transparent&show_size=true&show_license=true&show_issues=true&show_watchers=true&show_updated=true&show_badges=true&show_langs=true&langs_percentage=true)](https://github.com/Chintanpatel24/how-it-works)
+    </td>
+  </tr>
+  <tr>
+    <td>
+
+  [![Chintanpatel24/terminal-style](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=terminal-style&theme=transparent&show_size=true&show_license=true&show_issues=true&show_watchers=true&show_updated=true&show_badges=true&show_langs=true&langs_percentage=true)](https://github.com/Chintanpatel24/terminal-style)
+</td>
+    <td>
+      
+[![Chintanpatel24/devcraft](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=devcraft&theme=transparent&show_size=true&show_license=true&show_issues=true&show_watchers=true&show_updated=true&show_badges=true&show_langs=true&langs_percentage=true)](https://github.com/Chintanpatel24/devcraft)  </td>
   </tr>
 </table>
 
 
 
 
----
-
-
----
-
-
-|:--|:--|:--|
-|
-[![Chintanpatel24/neuryx_v2](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=neuryx_v2&theme=transparent&show_size=true&show_license=true&show_issues=true&show_watchers=true&show_updated=true&show_badges=true&show_langs=true&langs_percentage=true)](https://github.com/Chintanpatel24/neuryx_v2)
-
-[![Chintanpatel24/ScrollerFrames](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=ScrollerFrames&theme=transparent&show_size=true&show_license=true&show_issues=true&show_watchers=true&show_updated=true&show_badges=true&show_langs=true&langs_percentage=true)](https://github.com/Chintanpatel24/ScrollerFrames)
-|:--|:--|
-|
-[![Chintanpatel24/terminal-style](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=terminal-style&theme=transparent&show_size=true&show_license=true&show_issues=true&show_watchers=true&show_updated=true&show_badges=true&show_langs=true&langs_percentage=true)](https://github.com/Chintanpatel24/terminal-style)
 
 
 
 
 
-|----------|----------|
+
+
+
+
+
+
  
-[![Chintanpatel24/devcraft](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=devcraft&theme=transparent&show_size=true&show_license=true&show_issues=true&show_watchers=true&show_updated=true&show_badges=true&show_langs=true&langs_percentage=true)](https://github.com/Chintanpatel24/devcraft)  
-
-
-
-[![Chintanpatel24/GrapheneOS-Guide](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=GrapheneOS-Guide&theme=transparent&show_size=true&show_license=true&show_issues=true&show_watchers=true&show_updated=true&show_badges=true&show_langs=true&langs_percentage=true)](https://github.com/Chintanpatel24/GrapheneOS-Guide)|
-|:--|:--|
-|[![Chintanpatel24/how-it-works](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=how-it-works&theme=transparent&show_size=true&show_license=true&show_issues=true&show_watchers=true&show_updated=true&show_badges=true&show_langs=true&langs_percentage=true)](https://github.com/Chintanpatel24/how-it-works)
-|
-
-
-
-|
-
-
-
-
-
-
 
